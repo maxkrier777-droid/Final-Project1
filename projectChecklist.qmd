@@ -1,0 +1,94 @@
+---
+title: "Project Checklist"
+subtitle: STAT 184 Course Project
+author: Your Name Here
+date: 13 Aug. 2025
+date-format: DD MMMM YYYY
+toc: true
+format: pdf
+editor: source
+---
+
+\newpage 
+
+**It is recommended you fill this out AS THE LAST THING BEFORE YOU SUBMIT.**
+
+::: callout-note
+For the following items that appear as a checklist, you can check them off by putting an `x` within `- [ ]`; that is, it will now be `- [x]`.
+:::
+
+# Purpose
+
+This document is required to indicate where various requirements can be found within the `QMD` file that produced your Final Project Report (PDF). You must indicate line numbers as they appear in your final `QMD` document accompanying each of the following required tasks. Points will be deducted if line numbers are missing or differ significantly from the `QMD` of your submitted Report.
+
+## Example (for illustration)
+
+A. QMD line number for title: 2
+
+B. QMD line number for author names: 4
+
+C. QMD line number for due date: 5
+
+\newpage
+
+# Final Project Requirements
+
+**Make sure you review the requirements on Canvas. This is not a complete checklist.**
+
+- [ ] Set a table of contents.
+
+- [ ] Use a consistent Style Guide.
+
+- [ ] Identify and use at least 3 data sets/sources.
+
+- [ ] Include all required parts of the report (e.g., Introduction, etc.).
+
+- [ ] Caption all figures and use **cross references** within your Quarto document.
+
+- [ ] Put all code in the Code Appendix.
+
+- [ ] Cite your sources. (Origin of your data, any websites you used, etc.)
+
+# Line Numbers for Required Components
+
+## Data Access
+
+A. QMD line numbers where at least 3 data sources are imported: 
+
+## Data Wrangling / Cleaning / etc.
+
+**DO AT LEAST FOUR OF THE FOLLOWING:**
+
+A. QMD line number(s) for general data wrangling:
+
+B. QMD line number(s) for a join operation: 
+
+C. QMD line number(s) for `pivot_wider` or `pivot_longer` operation (or equivalent):
+
+D. QMD line number(s) for use of regular expressions:
+
+E. QMD line number(s) for use of reduction and/or transformation functions:
+
+F. QMD line number(s) for use of user-defined functions:
+
+G. QMD line number(s) for use of loops and/or control flow:
+
+## Data Visualization
+
+**Include the line numbers where you are plotting relevant graphs or shapes, YOU DO NOT have to use all of the following:**
+
+A. QMD line number(s) for **all data visualizations**:
+
+B. QMD line number(s) for multiple different geoms:
+
+C. QMD line number(s) for use of multiple asthetics:
+
+D. QMD line number(s) for use of layered graphics:
+
+E. QMD line number(s) for use of leaflet or choropleth maps:
+
+## Tables
+
+A. Include QMD line numbers for **all tables**: 
+
+
